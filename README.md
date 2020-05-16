@@ -5,4 +5,7 @@
 
 ## Usage
 
-Just open a stream with drops enabled. Now wait and maybe you have some luck. It took me three evenings after i got mine.
+* add the script to your tampermonker library
+* visit twitch and make sure tampermonker is activated
+* just open a stream with drops enabled. 
+* Now wait and maybe you have some luck. It took me three evenings after i got mine.
