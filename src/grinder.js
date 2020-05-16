@@ -2,7 +2,7 @@
 // @name         Twitch Clicker
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  tries to click on the button every three minutes
 // @author       Jil Sahm
 // @match        www.twitch.tv/*
 // @grant        none
